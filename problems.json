@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "0001",
+    "title": "Are dualizable topological vector spaces finite-dimensional?",
+    "body": "Let TVS be the symmetric monoidal category of complete Hausdorff topological vector spaces equipped with the completed projective, injective, or inductive tensor product.\n\n If V∈Obj(TVS) is dualizable, must dim(V) be finite?",
+    "subject": ["monoidal-categories","functional-analysis"],
+    "link": "https://mathoverflow.net/questions/471619",
+    "author": "Dmitri Pavlov",
+    "comments": ""
+  },
+  {
+    "tag": "0002",
+    "title": "Is a monoidal category such that every object is a counital comagma in a unique way necessarily a Cartesian monoidal category?",
+    "body": "*Jean-Baptiste Vienney:* The reason why I think it is interesting is that the answer is \"yes\" if we replace \"monoidal\" by \"symmetric monoidal\" but the proof makes essential use of the symmetry. On the other hand, I don't know how to find any counterexample without the symmetry",
+    "subject": "monoidal-categories",
+    "link": "https://categorytheory.zulipchat.com/#narrow/channel/241990-community.3A-discussion/topic/Open.20problems.20in.20category.20theory/near/483975926",
+    "author": "Jean-Baptiste Vienney",
+    "comments": ""
+  }
+]

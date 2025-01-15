@@ -122,33 +122,9 @@ Open
 
 ---
 
-## Characterizing limits of diagrams consisting of both lax and oplax morphisms of algebras | F-categories
-
-**Tag:** `0006`
-
-**Author:** Michael Shulman
-
-**Link:** [https://categorytheory.zulipchat.com/#narrow/channel/241990-community.3A-discussion/topic/Open.20problems.20in.20category.20theory/near/483993203](https://categorytheory.zulipchat.com/#narrow/channel/241990-community.3A-discussion/topic/Open.20problems.20in.20category.20theory/near/483993203)
-
-**Description:**
-
-**Michael Shulman:** Steve Lack and I formulated a context of F-categories in which we could exactly characterize the 2-dimensional limits of diagrams consisting of strict and lax morphisms for algebras over a 2-monad that can be lifted from the base category. There's a dual version for strict and oplax morphisms. But is there a context of this sort that includes both lax and oplax morphisms? There are limits of that sort that do lift, e.g. the comma object of an oplax morphism over a lax one. But (it seems that) you can't compose a lax morphism with an oplax one to get anything interesting, so it's unclear whether there's some kind of "enhanced 2-category" that includes them both. There is a double category of lax and oplax morphisms, but is there a kind of limit in double categories that would capture this?
-
-**Status:**
-
-Open
-
----
-
-**Comments:**
-
-
-
----
-
 ## Beta/eta equality for as equational theories induced by interpretations of bicartesian-closed categories that aren't preorders
 
-**Tag:** `0007`
+**Tag:** `0006`
 
 **Author:** Alex Simpson
 
@@ -172,7 +148,7 @@ Open
 
 ## Is there a conceptual definition of rig category recovering Laplaza's definition?
 
-**Tag:** `0008`
+**Tag:** `0007`
 
 **Author:** John Baez
 
@@ -196,7 +172,7 @@ Open
 
 ## The free 2-rig on an object of subdimension n is Rep(Mat_n(k))
 
-**Tag:** `0009`
+**Tag:** `0008`
 
 **Author:** John Baez, Joe Moller, and Todd Trimble
 
@@ -220,7 +196,7 @@ Open
 
 ## A more general splitting principle for 2-rigs
 
-**Tag:** `0010`
+**Tag:** `0009`
 
 **Author:** John Baez, Joe Moller, and Todd Trimble
 

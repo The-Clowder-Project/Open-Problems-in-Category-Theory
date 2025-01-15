@@ -51,16 +51,6 @@
   },
   {
     "tag": "0006",
-    "title": "Characterizing limits of diagrams consisting of both lax and oplax morphisms of algebras | F-categories",
-    "body": "**Michael Shulman:** Steve Lack and I formulated a context of F-categories in which we could exactly characterize the 2-dimensional limits of diagrams consisting of strict and lax morphisms for algebras over a 2-monad that can be lifted from the base category. There's a dual version for strict and oplax morphisms. But is there a context of this sort that includes both lax and oplax morphisms? There are limits of that sort that do lift, e.g. the comma object of an oplax morphism over a lax one. But (it seems that) you can't compose a lax morphism with an oplax one to get anything interesting, so it's unclear whether there's some kind of \"enhanced 2-category\" that includes them both. There is a double category of lax and oplax morphisms, but is there a kind of limit in double categories that would capture this?",
-    "subject": "type-theory,topos-theory",
-    "link": "https://categorytheory.zulipchat.com/#narrow/channel/241990-community.3A-discussion/topic/Open.20problems.20in.20category.20theory/near/483993203",
-    "author": "Michael Shulman",
-    "status": "Open",
-    "comments": ""
-  },
-  {
-    "tag": "0007",
     "title": "Beta/eta equality for as equational theories induced by interpretations of bicartesian-closed categories that aren't preorders",
     "body": "given any bicartesian-closed category CC that is not a preorder, the equational theory induced by all interpretations [of the typed lambda calculus with finite sums and products] in CC is exactly beta/eta equality.",
     "subject": "type-theory",
@@ -70,7 +60,7 @@
     "comments": ""
   },
   {
-    "tag": "0008",
+    "tag": "0007",
     "title": "Is there a conceptual definition of rig category recovering Laplaza's definition?",
     "body": "A possible approach would be constructing a tensor product of symmetric monoidal categories, following e.g. [arXiv:2211.04464](https://arxiv.org/abs/2211.04464), and checking whether pseudomonoids with respect to that tensor product recover rig categories in the sense of Laplaza.",
     "subject": "bimonoidal-categories",
@@ -80,7 +70,7 @@
     "comments": ""
   },
   {
-    "tag": "0009",
+    "tag": "0008",
     "title": "The free 2-rig on an object of subdimension n is Rep(Mat_n(k))",
     "body": "The free 2-rig on an object of subdimension n is Rep(M(n, k)), the category of algebraic representations of the monoid of n × n matrices with entries in k.",
     "subject": "bimonoidal-categories",
@@ -90,7 +80,7 @@
     "comments": ""
   },
   {
-    "tag": "0010",
+    "tag": "0009",
     "title": "A more general splitting principle for 2-rigs",
     "body": "Let R be a 2-rig and r ∈ R an object of finite bosonic subdimension. Then there exists a 2-rig R' and a map of 2-rigs E: R → R' such that:\n1. E(r) splits as a direct sum of finitely many bosonic subline objects.\n2. E: R → R' is a 2-rig extension, i.e., it is faithful, conservative, and essentially injective.\n3. K(E): K(R) → K(R') is injective.",
     "subject": "bimonoidal-categories",

@@ -14,11 +14,8 @@ Let TVS be the symmetric monoidal category of complete Hausdorff topological vec
 
  If V∈Obj(TVS) is dualizable, must dim(V) be finite?
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -38,11 +35,8 @@ Open
 
 **Jean-Baptiste Vienney:** The reason why I think it is interesting is that the answer is "yes" if we replace "monoidal" by "symmetric monoidal" but the proof makes essential use of the symmetry. On the other hand, I don't know how to find any counterexample without the symmetry
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -62,11 +56,8 @@ Open
 
 **Michael Shulman:** there should be a construction of a double-Kleisli virtual double category from two VDC monads and a horizontal distributive law, in which monoids are a notion of "generalized polycategory".
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -86,11 +77,8 @@ Open
 
 Part 1: Formalise the type theory of Agda. Part 2: Can the type theory of Agda be interpreted in any Grothendieck topos?
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -110,11 +98,8 @@ Open
 
 **Michael Shulman:** Steve Lack and I formulated a context of F-categories in which we could exactly characterize the 2-dimensional limits of diagrams consisting of strict and lax morphisms for algebras over a 2-monad that can be lifted from the base category. There's a dual version for strict and oplax morphisms. But is there a context of this sort that includes both lax and oplax morphisms? There are limits of that sort that do lift, e.g. the comma object of an oplax morphism over a lax one. But (it seems that) you can't compose a lax morphism with an oplax one to get anything interesting, so it's unclear whether there's some kind of "enhanced 2-category" that includes them both. There is a double category of lax and oplax morphisms, but is there a kind of limit in double categories that would capture this?
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -134,11 +119,8 @@ Open
 
 given any bicartesian-closed category CC that is not a preorder, the equational theory induced by all interpretations [of the typed lambda calculus with finite sums and products] in CC is exactly beta/eta equality.
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -158,11 +140,8 @@ Open
 
 A possible approach would be constructing a tensor product of symmetric monoidal categories, following e.g. [arXiv:2211.04464](https://arxiv.org/abs/2211.04464), and checking whether pseudomonoids with respect to that tensor product recover rig categories in the sense of Laplaza.
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -182,11 +161,8 @@ Open
 
 The free 2-rig on an object of subdimension n is Rep(M(n, k)), the category of algebraic representations of the monoid of n × n matrices with entries in k.
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 
@@ -209,11 +185,8 @@ Let R be a 2-rig and r ∈ R an object of finite bosonic subdimension. Then ther
 2. E: R → R' is a 2-rig extension, i.e., it is faithful, conservative, and essentially injective.
 3. K(E): K(R) → K(R') is injective.
 
-**Status:**
-
-Open
-
 ---
+**Status:** Open
 
 **Comments:**
 

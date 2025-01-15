@@ -25,7 +25,7 @@ def create_markdown_from_json(json_file, markdown_file):
             f.write(f"**Author:** {problem['author']}\n\n")
             f.write(f"**Link:** [{problem['link']}]({problem['link']})\n\n")
             f.write(f"**Description:**\n\n{problem['body']}\n\n")
-            f.write(f"**Status:**\n\n{problem['status']}\n\n---\n\n")
+            f.write(f"---\n**Status:** {problem['status']}\n\n")
             f.write(f"**Comments:**\n\n{problem['comments']}\n\n---\n\n")
 
     print(f"Markdown file '{markdown_file}' created successfully.")

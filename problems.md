@@ -17,7 +17,7 @@ Let TVS be the symmetric monoidal category of complete Hausdorff topological vec
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -38,7 +38,7 @@ Let TVS be the symmetric monoidal category of complete Hausdorff topological vec
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -59,7 +59,7 @@ Let TVS be the symmetric monoidal category of complete Hausdorff topological vec
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -80,7 +80,7 @@ Part 1: Formalise the type theory of Agda. Part 2: Can the type theory of Agda b
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -101,7 +101,7 @@ Part 1: Formalise the type theory of Agda. Part 2: Can the type theory of Agda b
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -122,7 +122,7 @@ given any bicartesian-closed category CC that is not a preorder, the equational 
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -143,7 +143,7 @@ A possible approach would be constructing a tensor product of symmetric monoidal
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -164,7 +164,7 @@ The free 2-rig on an object of subdimension n is Rep(M(n, k)), the category of a
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
@@ -188,7 +188,7 @@ Let R be a 2-rig and r ∈ R an object of finite bosonic subdimension. Then ther
 ---
 **Status:** Open
 
-**Comments:**
+---**Comments:**
 
 
 
